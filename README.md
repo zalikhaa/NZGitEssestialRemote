@@ -1,2 +1,2 @@
 # NZGitEssestialRemote
-This is the repository for my sofware development project.
+This is the repository for my software development project.
